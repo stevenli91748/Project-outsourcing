@@ -8,3 +8,4 @@
 * [全球3大项目外包和接单网站介绍](https://blog.csdn.net/hellojava1234/article/details/7405450)
 * [国内外常用接活网站](https://blog.csdn.net/iteye_5783/article/details/81754759)
 * [全球(海外)最流行的几个外包接活平台（全面）](https://blog.csdn.net/frycn/article/details/5692003)
+* [全球最好的20家软件外包接活平台](https://blog.csdn.net/baidu_25845567/article/details/83514004)
