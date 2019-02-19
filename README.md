@@ -1,7 +1,10 @@
 # Project-outsourcing
+
+国内项目外包平台
+* [IT界大佬告诉你，程序员接私活的7大平台利器](https://blog.csdn.net/qq_35661171/article/details/87621875)
+
+
 国外项目外包平台
-
-
 
 * [国外项目外包网站接活流程（新手上路版）](https://blog.csdn.net/jllws1/article/details/79418907)
 * [国外最流行的几个外包接活平台简要介绍](https://blog.csdn.net/hellojimz/article/details/52767743)
