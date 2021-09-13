@@ -2,7 +2,7 @@
 
 国内项目外包平台
 * [IT界大佬告诉你，程序员接私活的7大平台利器](https://blog.csdn.net/qq_35661171/article/details/87621875)
-
+* [5+ WAYS TO MAKE MONEY AS A DEVELOPER](https://www.youtube.com/watch?v=xnHIxL7x034)
 
 国外项目外包平台
 
